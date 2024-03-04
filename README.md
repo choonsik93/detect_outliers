@@ -11,3 +11,5 @@ First, install pcl package:
     mkdir build
     cd build
     cmake ..
+    make
+    ./pcd_write_test
