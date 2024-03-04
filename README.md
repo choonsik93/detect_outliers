@@ -1,3 +1,4 @@
 # detect_outliers
 
-pcl config
+install pcl package
+sudo apt install libpcl-dev
