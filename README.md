@@ -4,3 +4,10 @@
 First, install pcl package:
 
     sudo apt install libpcl-dev
+
+## Build
+
+    cd /PATH/TO/DETECT/OUTLIERS/PROJECT
+    mkdir build
+    cd build
+    cmake ..
